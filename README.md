@@ -8,5 +8,5 @@
   * Visualization with Seaborn (Box - Swarm - Cat - Correlation Plot Analysis)
   * Outlier Detection
   * Modelling and Tuning Machine Learning Model
- * If you want to see the details you can [check my kaggle account](https://www.kaggle.com/code/sevvalsimsek/heart-attack-analysis-and-prediction)
+* If you want to see the details you can [check my kaggle account](https://www.kaggle.com/code/sevvalsimsek/heart-attack-analysis-and-prediction)
 
