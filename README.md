@@ -3,8 +3,8 @@
 * This project contains:
   * EDA
   * Handling with Missing Values
-  *Categoric and Numeric Features
-Standardization
-Visualization with Seaborn (Box - Swarm - Cat - Correlation Plot Analysis)
-Outlier Detection
-Modelling and Tuning Machine Learning Model
+  * Categoric and Numeric Features
+  * Standardization
+  * Visualization with Seaborn (Box - Swarm - Cat - Correlation Plot Analysis)
+  * Outlier Detection
+  * Modelling and Tuning Machine Learning Model
